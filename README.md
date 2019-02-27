@@ -23,8 +23,6 @@
     npm run start
   ```
   
-
-  
   最后浏览器打开http://localhost:8080
     
   <img src="/image/localhost.png"  width="750" height="400">
